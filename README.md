@@ -59,16 +59,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="docs/screenshots/profile_screen.png" width="30%" alt="Profile Screen" />
-  <img src="docs/screenshots/feed_screen.png" width="30%" alt="Feed Screen" />
-  <img src="docs/screenshots/event_screen.png" width="30%" alt="Event Screen" />
-</p>
-
----
-
 ## 🗓 Development Milestones
 
 1. **Research & Planning**
